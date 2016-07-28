@@ -1,2 +1,4 @@
 # skillTree.js
-A javascript module to show skill tree in your website.
+A web-base skill presenting Framework
+
+A framework for easily creating a skill tree to showing your skill clearly.
